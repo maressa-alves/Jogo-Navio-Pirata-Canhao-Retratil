@@ -1,2 +1,3 @@
 # PiratesInvasionStage-5
-added sprite animation
+Adição de código sugerido pelo Gui
+jogue aqui: https://maressa-alves.github.io/Jogo-Navio-Pirata-Canhao-Retratil/
