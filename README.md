@@ -1,5 +1,5 @@
 Jogue aqui: https://maressa-alves.github.io/Jogo-Navio-Pirata-Canhao-Retratil/
-Instruções: 
+# Instruções: 
 seta para esquerda - sobe canhão
 seta para direita - desce canhão
 barra de espaço: atira
